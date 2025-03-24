@@ -1,4 +1,4 @@
-# 🚀 Banking Assistant Chatbot with AWS Lex & Lambda! 🤖
+# Banking Assistant Chatbot with AWS Lex & Lambda! 🤖
 
 ## Overview
 Excited to share my latest project—an AI-powered chatbot using Amazon Lex and AWS Lambda! 🎉
